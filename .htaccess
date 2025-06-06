@@ -14,7 +14,4 @@ RewriteRule ^(.*)$ http://%{HTTP_HOST}/$1/ [R=301,L]
 # Перезаписываем /about/ → /pages/about/index.php
 RewriteRule ^(.*)/$ /pages/$1/index.php [L]
 
-# Если ничего не совпало — отправляем на 404
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^.*$ /pages/err404/index.php [L]
+ErrorDocument 404 /err404/
