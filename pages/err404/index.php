@@ -122,24 +122,9 @@
           </div>
         </div>
       </section>
-    </main>
 
-    <!-- ================================================== -->
+      <!-- ================================================== -->
 
-    <?php if (file_exists($root . "/template/shared/footer.php")): ?>
-    <?php require_once $root . '/template/shared/footer.php';?>
-    <?php endif;?>
-
-  </div>
-
-  <?php if (file_exists($root . "/template/forms/fixedcontact.php")): ?>
-  <?php require_once $root . '/template/forms/fixedcontact.php';?>
-  <?php endif;?>
-
-  <?php if (file_exists($root . "/template/forms/mainform.php")): ?>
-  <?php require_once $root . '/template/forms/mainform.php';?>
-  <?php endif;?>
-
-</body>
-
-</html>
+      <?php if (file_exists($root . "/template/shared/footer.php")): ?>
+      <?php require_once $root . '/template/shared/footer.php';?>
+      <?php endif;?>

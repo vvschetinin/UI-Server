@@ -1,3 +1,5 @@
+</main>
+
 <footer class="footer">
   <div class="container footer-top">
     <div class="row">
@@ -99,3 +101,17 @@
   </div>
   <div class="footer-copyright text-center">&copy; Vladlen Schetinin 2025<span>All Rights Reserved</span></div>
 </footer>
+
+</div>
+
+<?php if (file_exists($root . "/template/forms/fixedcontact.php")): ?>
+<?php require_once $root . '/template/forms/fixedcontact.php';?>
+<?php endif;?>
+
+<?php if (file_exists($root . "/template/forms/mainform.php")): ?>
+<?php require_once $root . '/template/forms/mainform.php';?>
+<?php endif;?>
+
+</body>
+
+</html>
