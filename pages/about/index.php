@@ -7,9 +7,12 @@
 <head>
   <link rel="icon" type="image/svg+xml" href="/assets/images/vite.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Обо мне</title>
+  <title>AI Tools | Обо мне</title>
   <script type="module" crossorigin src="/assets/scripts/main.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/styles/main.css" />
+  <?php if (file_exists($root . "/interface/seo/metrics.php")): ?>
+  <?php require_once $root . '/interface/seo/metrics.php';?>
+  <?php endif;?>
 </head>
 
 <body>
