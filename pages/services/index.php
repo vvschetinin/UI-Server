@@ -236,7 +236,7 @@
                   href="/blog/">статьях в блоге</a>.
               </p>
               <div class="button-wrap text-center mt-2 mt-3--lg">
-                <a href="/works/" class="view-btn">Смотреть работы</a>
+                <a href="/cases/" class="view-btn">Смотреть работы</a>
               </div>
             </div>
           </div>
