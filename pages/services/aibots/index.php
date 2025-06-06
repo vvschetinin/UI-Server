@@ -17,11 +17,9 @@
 
 <body>
   <div class="site-wrapper">
-
     <?php if (file_exists($root . "/template/shared/header-inner.php")): ?>
     <?php require_once $root . '/template/shared/header-inner.php';?>
     <?php endif;?>
-
     <main class="site-content">
       <section class="section-inner bg-dark">
         <div class="container--middle">
