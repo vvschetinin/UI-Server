@@ -320,6 +320,10 @@
                 эффективным и успешным!
               </p>
               <p>Открыт к сотрудничеству с компаниями, реализующими проекты с использованием AI.</p>
+              <!-- Блок кнопок -->
+              <div class="button-wrap flex justify-center mt-2 mt-3--lg">
+                <button class="start-project-btn display-inline-block js-startproject">Получить консультацию</button>
+              </div>
             </div>
           </div>
         </div>
