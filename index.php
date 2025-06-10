@@ -30,7 +30,7 @@
       <section class="hero hero--large bg-hero">
         <figure class="hero-media">
           <video class="hero-video" preload="auto" poster="/assets/images/hero/main-hero.jpg" loop muted playsinline
-            autoplay controls aria-label="Видео о AI-инструментах для бизнеса">
+            autoplay controls aria-label="Видео о AI-инструментах для бизнеса Владлена Щетинина">
             <source src="/assets/video/careers.mp4" type="video/mp4" />
           </video>
         </figure>

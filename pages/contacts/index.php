@@ -28,7 +28,7 @@
       <section class="hero hero--large flex items-center">
         <figure class="hero-media">
           <video class="hero-video" preload="auto" poster="/assets/images/hero/main-hero.jpg" loop muted playsinline
-            autoplay controls>
+            autoplay controls aria-label="Видео на странице контактов Владлена Щетинина">
             <source src="/assets/video/contacts/contact.mp4" type="video/mp4" />
           </video>
         </figure>

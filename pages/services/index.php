@@ -26,7 +26,6 @@
     <main class="site-content">
 
       <section class="hero hero--small">
-        <figure class="hero-media hidden"></figure>
         <div class="hero-container">
           <div class="hero-content">
             <h3 class="sectorname">Услуги</h3>
