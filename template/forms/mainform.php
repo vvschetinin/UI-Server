@@ -46,6 +46,15 @@
             </div>
             <div class="form-footer mt-1">
               <button class="form-btn" name="formbutton" id="form-submit-button" disabled="true">Отправить</button>
+              <input type="hidden" class="form-hidden" name="project_name" value="Сайт Владлена Щетинина">
+              <input type="hidden" class="form-hidden" name="form_subject"
+                value="Сообщение с модальной формы обратной связи">
+              <input type="text" class="helpmess" name="<?php echo $honeypotName; ?>" value="">
+              <input type="email" name="<?php echo $honeypotName; ?>" style="display:none;" value="">
+              <input type="text" class="form-target_page-text" name="<?php echo $honeypotName; ?>" value="" />
+              <input type="number" class="form-target_page-number" name="<?php echo $honeypotName; ?>" value="" />
+              <input type="email" class="form-target_page-email" name="<?php echo $honeypotName; ?>" value="" />
+              <input type="tel" class="form-target_page-phone" name="<?php echo $honeypotName; ?>" value="" />
             </div>
           </form>
           <!-- End Form -->
