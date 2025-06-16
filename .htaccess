@@ -1,0 +1,17 @@
+# Включаем модуль перезаписи
+RewriteEngine On
+RewriteBase /
+
+# Исключаем реальные файлы и папки из перезаписи
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Добавляем слэш в конце URL, если его нет
+RewriteCond %{REQUEST_URI} !^/pages/ [NC]
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ http://%{HTTP_HOST}/$1/ [R=301,L]
+
+# Перезаписываем /about/ → /pages/about/index.php
+RewriteRule ^(.*)/$ /pages/$1/index.php [L]
+
+ErrorDocument 404 /err404/
