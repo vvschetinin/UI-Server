@@ -138,7 +138,7 @@
                 <div class="workgrid-inner">
                   <!-- ================================== -->
                   <div class="mywork-item">
-                    <a href="/demo/beautyshop/" target="_blank" class="grid-item work-item">
+                    <a href="/samples/beautyshop/" target="_blank" class="grid-item work-item">
                       <div class="inner">
                         <div class="grid-item-image bg--cover"
                           style="background-image:url(/assets/images/cases/demo/beautyshop/prev.jpg.webp)"></div>
@@ -163,7 +163,7 @@
                   </div>
                   <!-- ================================== -->
                   <div class="mywork-item">
-                    <a href="/demo/tesla/" target="_blank" class="grid-item work-item">
+                    <a href="/samples/tesla/" target="_blank" class="grid-item work-item">
                       <div class="inner">
                         <div class="grid-item-image bg--cover"
                           style="background-image:url(/assets/images/cases/demo/tesla/tesla-logo.webp)"></div>
@@ -175,7 +175,7 @@
                   </div>
                   <!-- ================================== -->
                   <div class="mywork-item">
-                    <a href="/demo/cartrans/" target="_blank" class="grid-item work-item">
+                    <a href="/samples/cartrans/" target="_blank" class="grid-item work-item">
                       <div class="inner">
                         <div class="grid-item-image bg--cover"
                           style="background-image:url(/assets/images/cases/demo/cartrans/bg-cartrans.jpg.webp)"></div>
@@ -187,7 +187,7 @@
                   </div>
                   <!-- ================================== -->
                   <div class="mywork-item">
-                    <a href="/demo/tellus/" target="_blank" class="grid-item work-item">
+                    <a href="/samples/tellus/" target="_blank" class="grid-item work-item">
                       <div class="inner">
                         <div class="grid-item-image bg--cover"
                           style="background-image:url(/assets/images/cases/demo/tellus/prev.jpg.webp)"></div>
@@ -199,7 +199,7 @@
                   </div>
                   <!-- ================================== -->
                   <div class="mywork-item">
-                    <a href="/demo/fred/" target="_blank" class="grid-item work-item">
+                    <a href="/samples/fred/" target="_blank" class="grid-item work-item">
                       <div class="inner">
                         <div class="grid-item-image bg--cover"
                           style="background-image:url(/assets/images/cases/demo/fred/prev.jpg.webp)"></div>
