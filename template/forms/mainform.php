@@ -44,7 +44,7 @@
                 <label for="form-checkbox">Я даю согласие на обработку предоставленных данных</label>
               </div>
             </div>
-            <div class="form-footer mt-1">
+            <div class="form-footer mb-2">
               <div id="answer-overlay"></div>
               <button class="form-btn" name="formbutton" id="form-submit-button" disabled="true">Отправить</button>
               <input type="hidden" class="form-hidden" name="project_name" value="Сайт Владлена Щетинина">
