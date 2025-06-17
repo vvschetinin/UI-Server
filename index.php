@@ -29,10 +29,11 @@
       <!-- Секция Hero -->
       <section class="hero hero--large bg-hero">
         <figure class="hero-media bg--cover" style="background-image: url(/assets/images/hero/main-hero.webp)">
-            <video class="hero-video bg--cover" preload="auto" poster="/assets/images/hero/main-hero.webp" loop muted playsinline autoplay controls>
-              <source src="/assets/video/careers.mp4" type="video/mp4" />
-            </video>
-          </figure>
+          <video class="hero-video bg--cover" preload="auto" poster="/assets/images/hero/main-hero.webp" loop muted
+            playsinline autoplay controls>
+            <source src="/assets/video/careers.mp4" type="video/mp4" />
+          </video>
+        </figure>
         <div class="hero-container">
           <div class="hero-content">
             <h3 class="sectorname">Сайт Владлена Щетинина</h3>
