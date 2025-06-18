@@ -13,7 +13,7 @@
       </a>
     </li>
     <li>
-      <a href="mailto:born-1965@mail.ru" class="contact-item-link">
+      <a href="mailto:info@vschetinin.ru" class="contact-item-link">
         <i class="icon-fixed-contact">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" style="enable-background: new 0 0 20 20"
             xml:space="preserve">
@@ -22,11 +22,11 @@
               fill-rule="evenodd" clip-rule="evenodd" fill="#050029" />
           </svg>
         </i>
-        <span class="contact-item-text">born-1965@mail.ru</span>
+        <span class="contact-item-text">info@vschetinin.ru</span>
       </a>
     </li>
     <li>
-      <a href="" class="contact-item-link">
+      <a href="https://t.me/VladlenGross" class="contact-item-link">
         <i class="icon-fixed-contact">
           <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path fill-rule="evenodd" clip-rule="evenodd"

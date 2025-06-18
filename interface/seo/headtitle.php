@@ -1541,6 +1541,182 @@
 <meta property="og:locale" content="ru_RU" />
 <!-- Верификация -->
 <!-- Структурированные данные -->
+<script type="application/ld+json">
+[{
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://vschetinin.ru/services/content/",
+    "name": "Контент-маркетинг",
+    "description": "Контент-маркетинг от Владлена Щетинина: создание текстов, постов, статей, презентаций и рекламных материалов для соцсетей, сайтов и кампаний, чтобы укрепить бренд и увеличить охваты.",
+    "url": "https://vschetinin.ru/services/content/",
+    "image": "https://vschetinin.ru/assets/images/services/content/content-hero.jpg",
+    "provider": {
+      "@type": "Person",
+      "@id": "https://vschetinin.ru/#person",
+      "name": "Владлен Щетинин",
+      "jobTitle": "Специалист по AI-инструментам и SEO"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Russia"
+    },
+    "hasOffer": {
+      "@type": "Offer",
+      "@id": "https://vschetinin.ru/services/content/#offer",
+      "url": "https://vschetinin.ru/services/content/",
+      "availability": "http://schema.org/InStock",
+      "offeredBy": {
+        "@type": "Person",
+        "@id": "https://vschetinin.ru/#person",
+        "name": "Владлен Щетинин"
+      }
+    },
+    "serviceOutput": [{
+        "@type": "Service",
+        "name": "Посты для социальных сетей",
+        "description": "Создание ярких и вовлекающих постов для Instagram, ВКонтакте, Telegram и других платформ, повышающих охваты и лояльность."
+      },
+      {
+        "@type": "Service",
+        "name": "Статьи для блогов и сайтов",
+        "description": "Разработка информативных и оптимизированных статей для привлечения трафика и усиления доверия к бренду."
+      },
+      {
+        "@type": "Service",
+        "name": "Продающие тексты",
+        "description": "Создание убедительных текстов для лендингов, email-рассылок и рекламы, увеличивающих конверсии."
+      },
+      {
+        "@type": "Service",
+        "name": "Презентации для бизнеса",
+        "description": "Разработка профессиональных презентаций с чётким текстом и стильным дизайном для встреч и питчингов."
+      }
+    ],
+    "potentialAction": {
+      "@type": "ContactAction",
+      "target": "https://vschetinin.ru/services/content/#contact",
+      "description": "Свяжитесь для консультации по контент-маркетингу"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "@id": "https://vschetinin.ru/#business",
+    "name": "Услуги Владлена Щетинина",
+    "url": "https://vschetinin.ru/",
+    "image": "https://vschetinin.ru/assets/images/hero/services-hero.jpg",
+    "description": "Профессиональные услуги по контент-маркетингу, созданию AI-ассистентов, AI-чат-ботов, SEO и оптимизации сайтов для роста вашего бизнеса.",
+    "provider": {
+      "@type": "Person",
+      "@id": "https://vschetinin.ru/#person",
+      "name": "Владлен Щетинин"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ивантеевка",
+      "addressRegion": "Московская область",
+      "addressCountry": "RU"
+    },
+    "telephone": "+7-926-052-20-29",
+    "email": "info@vschetinin.ru",
+    "sameAs": ["https://t.me/VladlenGross"],
+    "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "+7-926-052-20-29",
+        "contactType": "Customer service",
+        "availableLanguage": ["Russian"],
+        "areaServed": "RU"
+      },
+      {
+        "@type": "ContactPoint",
+        "email": "info@vschetinin.ru",
+        "contactType": "Customer service",
+        "availableLanguage": ["Russian"],
+        "areaServed": "RU"
+      },
+      {
+        "@type": "ContactPoint",
+        "url": "https://t.me/VladlenGross",
+        "contactType": "Customer service",
+        "availableLanguage": ["Russian"],
+        "areaServed": "RU"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://vschetinin.ru/#person",
+    "name": "Владлен Щетинин",
+    "url": "https://vschetinin.ru/",
+    "image": "https://vschetinin.ru/assets/images/hero/services-hero.jpg",
+    "description": "Владлен Щетинин — специалист с 8+ годами опыта в контент-маркетинге, создании AI-ассистентов, AI-чат-ботов, SEO и автоматизации бизнес-процессов.",
+    "jobTitle": "Специалист по AI-инструментам и SEO",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ивантеевка",
+      "addressRegion": "Московская область",
+      "addressCountry": "RU"
+    },
+    "telephone": "+7-926-052-20-29",
+    "email": "info@vschetinin.ru",
+    "sameAs": ["https://t.me/VladlenGross"]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://vschetinin.ru/services/content/",
+    "url": "https://vschetinin.ru/services/content/",
+    "name": "Контент-маркетинг | Владлен Щетинин",
+    "description": "Контент-маркетинг от Владлена Щетинина: тексты, посты, статьи, презентации, реклама. Укрепите бренд и увеличьте охваты!",
+    "inLanguage": "ru-RU",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://vschetinin.ru/#website",
+      "url": "https://vschetinin.ru/",
+      "name": "Владлен Щетинин"
+    },
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "@id": "https://vschetinin.ru/services/content/#breadcrumb",
+      "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Главная",
+          "item": "https://vschetinin.ru/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Услуги",
+          "item": "https://vschetinin.ru/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Контент-маркетинг",
+          "item": "https://vschetinin.ru/services/content/"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://vschetinin.ru/#website",
+    "name": "Владлен Щетинин",
+    "url": "https://vschetinin.ru/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://vschetinin.ru/?s={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  }
+]
+</script>
 <!-- End Sector -->
 <?php elseif ($_SERVER["REQUEST_URI"] == '/services/seo/'): ?>
 <!-- Основные SEO-теги -->
@@ -1563,5 +1739,186 @@
 <meta property="og:locale" content="ru_RU" />
 <!-- Верификация -->
 <!-- Структурированные данные -->
+<script type="application/ld+json">
+[{
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://vschetinin.ru/services/seo/",
+    "name": "SEO-продвижение",
+    "description": "SEO-продвижение от Владлена Щетинина: вывод сайта в топ Google и Яндекс, рост органического трафика и конверсий с помощью аудита, оптимизации контента и технических улучшений.",
+    "url": "https://vschetinin.ru/services/seo/",
+    "image": "https://vschetinin.ru/assets/images/services/seo/seo-hero.jpg",
+    "provider": {
+      "@type": "Person",
+      "@id": "https://vschetinin.ru/#person",
+      "name": "Владлен Щетинин",
+      "jobTitle": "Специалист по AI-инструментам и SEO"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Russia"
+    },
+    "hasOffer": {
+      "@type": "Offer",
+      "@id": "https://vschetinin.ru/services/seo/#offer",
+      "url": "https://vschetinin.ru/services/seo/",
+      "availability": "http://schema.org/InStock",
+      "offeredBy": {
+        "@type": "Person",
+        "@id": "https://vschetinin.ru/#person",
+        "name": "Владлен Щетинин"
+      }
+    },
+    "serviceOutput": [{
+        "@type": "Service",
+        "name": "Аудит сайта",
+        "description": "Анализ сайта для выявления технических ошибок и возможностей роста, создающий основу для эффективной SEO-стратегии."
+      },
+      {
+        "@type": "Service",
+        "name": "Оптимизация контента",
+        "description": "Улучшение текстов, заголовков и мета-тегов для соответствия запросам аудитории и алгоритмам Google и Яндекс."
+      },
+      {
+        "@type": "Service",
+        "name": "Техническая оптимизация",
+        "description": "Устранение ошибок, ускорение загрузки и улучшение структуры сайта для повышения удобства и индексации."
+      },
+      {
+        "@type": "Service",
+        "name": "Работа с внешними ссылками",
+        "description": "Формирование стратегии получения качественных ссылок для повышения авторитета сайта."
+      },
+      {
+        "@type": "Service",
+        "name": "Мониторинг и аналитика",
+        "description": "Отслеживание позиций, трафика и конверсий с регулярными отчётами для корректировки стратегии."
+      }
+    ],
+    "potentialAction": {
+      "@type": "ContactAction",
+      "target": "https://vschetinin.ru/services/seo/#contact",
+      "description": "Свяжитесь для консультации по SEO-продвижению"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "@id": "https://vschetinin.ru/#business",
+    "name": "Услуги Владлена Щетинина",
+    "url": "https://vschetinin.ru/",
+    "image": "https://vschetinin.ru/assets/images/hero/services-hero.jpg",
+    "description": "Профессиональные услуги по SEO-продвижению, созданию AI-ассистентов, AI-чат-ботов, контент-маркетингу и оптимизации сайтов для роста вашего бизнеса.",
+    "provider": {
+      "@type": "Person",
+      "@id": "https://vschetinin.ru/#person",
+      "name": "Владлен Щетинин"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ивантеевка",
+      "addressRegion": "Московская область",
+      "addressCountry": "RU"
+    },
+    "telephone": "+7-926-052-20-29",
+    "email": "info@vschetinin.ru",
+    "sameAs": ["https://t.me/VladlenGross"],
+    "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "+7-926-052-20-29",
+        "contactType": "Customer service",
+        "availableLanguage": ["Russian"],
+        "areaServed": "RU"
+      },
+      {
+        "@type": "ContactPoint",
+        "email": "info@vschetinin.ru",
+        "contactType": "Customer service",
+        "availableLanguage": ["Russian"],
+        "areaServed": "RU"
+      },
+      {
+        "@type": "ContactPoint",
+        "url": "https://t.me/VladlenGross",
+        "contactType": "Customer service",
+        "availableLanguage": ["Russian"],
+        "areaServed": "RU"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://vschetinin.ru/#person",
+    "name": "Владлен Щетинин",
+    "url": "https://vschetinin.ru/",
+    "image": "https://vschetinin.ru/assets/images/hero/services-hero.jpg",
+    "description": "Владлен Щетинин — специалист с 8+ годами опыта в SEO-продвижении, создании AI-ассистентов, AI-чат-ботов, контент-маркетинге и автоматизации бизнес-процессов.",
+    "jobTitle": "Специалист по AI-инструментам и SEO",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ивантеевка",
+      "addressRegion": "Московская область",
+      "addressCountry": "RU"
+    },
+    "telephone": "+7-926-052-20-29",
+    "email": "info@vschetinin.ru",
+    "sameAs": ["https://t.me/VladlenGross"]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://vschetinin.ru/services/seo/",
+    "url": "https://vschetinin.ru/services/seo/",
+    "name": "SEO-продвижение | Владлен Щетинин",
+    "description": "SEO-продвижение от Владлена Щетинина: топ Google и Яндекс, рост трафика, увеличение конверсий. Оптимизация для вашего бизнеса!",
+    "inLanguage": "ru-RU",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://vschetinin.ru/#website",
+      "url": "https://vschetinin.ru/",
+      "name": "Владлен Щетинин"
+    },
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "@id": "https://vschetinin.ru/services/seo/#breadcrumb",
+      "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Главная",
+          "item": "https://vschetinin.ru/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Услуги",
+          "item": "https://vschetinin.ru/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SEO-продвижение",
+          "item": "https://vschetinin.ru/services/seo/"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://vschetinin.ru/#website",
+    "name": "Владлен Щетинин",
+    "url": "https://vschetinin.ru/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://vschetinin.ru/?s={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  }
+]
+</script>
 <!-- End Sector -->
 <?php endif;?>
