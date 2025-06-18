@@ -29,7 +29,7 @@
         <div class="hero-container">
           <div class="hero-content">
             <h3 class="sectorname">Услуги</h3>
-            <h1 class="hero-title">Чат-боты, SEO и контент <span>которые работают на вас</span></h1>
+            <h1 class="hero-title">Чат-боты, контент и оптимизация<span>которые работают на вас</span></h1>
             <div class="hero-buttons">
               <a class="btn btn--purple" href="/services/">Предлагаемые услуги</a>
               <a class="btn btn--white" href="/cases/">Мои проекты</a>
@@ -182,47 +182,46 @@
 
             <div class="col-100 col-md-50 col-lg-40 mb-2 mb-0--md">
               <div class="services-item">
-                <a href="/services/aihelpers/">
+                <a href="/services/optimization/">
                   <div class="services-banner">
                     <picture class="inner">
-                      <img src="/assets/images/services/aihelpers/aihelpers.webp" alt="Баннер услуги AI-ассистентов"
-                        loading="lazy" />
+                      <img src="/assets/images/services/optimization/optimization.webp"
+                        alt="Баннер Оптимизация сайта" />
                     </picture>
                   </div>
                 </a>
                 <div class="services-prev">
                   <div class="content">
-                    <h3 class="h3-title mb-1" itemprop="name">AI Ассистенты</h3>
+                    <h3 class="h3-title mb-1" itemprop="name">Оптимизация сайта</h3>
                     <p itemprop="description">
-                      AI-ассистенты — ваш надёжный партнёр в оптимизации бизнес-процессов! Автоматизированное управление
-                      задачами, от планирования до выполнения и
-                      подготовки отчётов.
+                      Технические услуги по оптимизации вашего сайта: от мобильной адаптации до аналитики и поддержки.
+                      Для скорости, удобства и надёжности, чтобы увеличить трафик и конверсии.
                     </p>
                   </div>
-                  <a href="/services/aihelpers/" class="find-btn">Узнать больше</a>
+                  <a href="/services/optimization/" class="find-btn">Узнать больше</a>
                 </div>
               </div>
             </div>
 
             <div class="col-100 col-md-50 col-lg-40 mb-0">
               <div class="services-item">
-                <a href="/services/seo/">
+                <a href="/services/castom/">
                   <div class="services-banner">
                     <picture class="inner">
-                      <img src="/assets/images/services/seo/seo.webp" alt="Баннер услуги SEO-продвижения"
-                        loading="lazy" />
+                      <img src="/assets/images/services/castom/castom.webp" alt="Баннер верстки для CMS" />
                     </picture>
                   </div>
                 </a>
                 <div class="services-prev">
                   <div class="content">
-                    <h3 class="h3-title mb-1" itemprop="name">SEO для роста трафика</h3>
+                    <h3 class="h3-title mb-1" itemprop="name">Создание верстки для CMS</h3>
                     <p itemprop="description">
-                      Передовые инструменты для SEO помогут вам обойти конкурентов и занять топовые позиции в Google,
-                      Яндекс и других поисковых системах.
+                      Cоздание адаптивной, валидной верстку с базовой SEO-оптимизацией, использующей самые современные
+                      подходы и плагины. Идеальная работа на любых
+                      устройствах.
                     </p>
                   </div>
-                  <a href="/services/seo/" class="find-btn">Узнать больше</a>
+                  <a href="/services/castom/" class="find-btn">Узнать больше</a>
                 </div>
               </div>
             </div>
@@ -230,21 +229,11 @@
 
           <div class="row element-animation-up">
             <div class="col-100">
-              <h3 class="h3-title mb-1">Дополнительные работы и услуги:</h3>
-              <ul class="services-list">
-                <li>Мобильная адаптация вашего сайта</li>
-                <li>Оптимизация сайта по Google PageSpeed</li>
-                <li>Проверка и исправление валидности кода</li>
-                <li>Ускорение загрузки сайта</li>
-                <li>Адаптивные темы для интеграции в CMS</li>
-              </ul>
-              <p>
-                Хотите, чтобы ваш сайт работал безупречно и привлекал больше клиентов? Обеспечу его быструю загрузку,
+              <p>Хотите, чтобы ваш сайт работал безупречно и привлекал больше клиентов? Обеспечу его быструю загрузку,
                 идеальную адаптацию под мобильные устройства и
                 соответствие современным стандартам. Продуманные решения сделают сайт удобным для пользователей и усилят
-                позиции вашего бизнеса в онлайне! Узнайте
-                больше в моих <a class="hover-link" href="/cases/">кейсах</a> и <a class="hover-link"
-                  href="/blog/">статьях в блоге</a>.
+                позиции вашего бизнеса в онлайне! Узнайте больше в моих <a class="hover-link" href="/cases/">кейсах</a>
+                и <a class="hover-link" href="/blog/">статьях в блоге</a>.
               </p>
               <div class="button-wrap text-center mt-2 mt-3--lg">
                 <a href="/cases/" class="view-btn">Смотреть работы</a>
