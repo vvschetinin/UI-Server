@@ -6,15 +6,77 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <!-- Add Title + Meta -->
+  <title>Страница не найдена (404) | Владлен Щетинин</title>
+  <meta name="description"
+    content="Страница не найдена (404). Вернитесь на главную, чтобы узнать об услугах Владлена Щетинина: контент, верстка, оптимизация сайтов и AI!">
+  <meta name="keywords" content="404, страница не найдена, Владлен Щетинин, услуги для бизнеса">
+  <meta name="robots" content="noindex, follow" />
+  <meta name="author" content="Владлен Щетинин">
+  <link rel="canonical" href="https://vschetinin.ru/err404/">
+  <!-- Open Graph -->
+  <meta property="og:title" content="404: Страница не найдена | Владлен Щетинин">
+  <meta property="og:description"
+    content="Ой, страница не найдена (404)! Перейдите на главную, чтобы узнать об услугах Владлена Щетинина: контент, оптимизация сайтов, верстка, AI.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://vschetinin.ru/err404/">
+  <meta property="og:image" content="https://vschetinin.ru/assets/images/og-err404-image.jpg">
+  <meta property="og:site_name" content="Владлен Щетинин">
+  <meta property="og:locale" content="ru_RU">
+  <!-- Add Структурированных данных -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Владлен Щетинин - AI-решения и автоматизация бизнеса",
+    "description": "Профессиональные AI-инструменты, чат-боты и автоматизация бизнес-процессов в Москве и Московской области. Консультации и разработка для вашего бизнеса.",
+    "image": "https://vschetinin.ru/assets/images/og-err404-image.jpg",
+    "url": "https://vschetinin.ru/",
+    "telephone": "+79260522029",
+    "email": "info@vschetinin.ru",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ивантеевка",
+      "addressRegion": "Московская область",
+      "addressCountry": "RU"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 55.9711,
+      "longitude": 37.9209
+    },
+    "openingHoursSpecification": [{
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "09:00",
+      "closes": "18:00"
+    }],
+    "sameAs": [
+      "https://t.me/VladlenGross"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+79260522029",
+      "contactType": "customer service",
+      "email": "info@vschetinin.ru",
+      "areaServed": "RU",
+      "availableLanguage": "Russian"
+    }
+  }
+  </script>
+  <!-- Add Styles and Icons -->
+  <link rel="stylesheet" crossorigin href="/assets/styles/main.css" />
   <link rel="icon" type="image/svg+xml" href="/assets/images/vite.svg" alt="Логотип Владлена Щетинина" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" alt="Иконка для Apple устройств" />
-  <!-- Add Title + Meta -->
-  <?php if (file_exists($root . "/interface/seo/headtitle.php")): ?>
-  <?php require_once $root . '/interface/seo/headtitle.php';?>
-  <?php endif;?>
-  <link rel="stylesheet" crossorigin href="/assets/styles/main.css" />
   <!-- Add Metrics -->
 </head>
 

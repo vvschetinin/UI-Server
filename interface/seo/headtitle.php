@@ -600,6 +600,24 @@
     "addressRegion": "Московская область",
     "addressCountry": "RU"
   },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 55.9711,
+    "longitude": 37.9209
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  }],
   "contactPoint": {
     "@type": "ContactPoint",
     "telephone": "+79260522029",
@@ -621,60 +639,6 @@
 }
 </script>
 <!-- ==================================================================================== -->
-
-<?php elseif ($_SERVER["REQUEST_URI"] == '/err404/'): ?>
-<!-- Основные SEO-теги -->
-<title>Страница не найдена (404) | Владлен Щетинин</title>
-<meta name="description"
-  content="Страница не найдена (404). Вернитесь на главную, чтобы узнать об услугах Владлена Щетинина: контент, верстка, SEO и AI!">
-<meta name="keywords" content="404, страница не найдена, Владлен Щетинин, услуги для бизнеса">
-<meta name="robots" content="noindex, follow" />
-<meta name="author" content="Владлен Щетинин">
-<link rel="canonical" href="https://vschetinin.ru/err404/">
-<!-- Open Graph -->
-<meta property="og:title" content="404: Страница не найдена | Владлен Щетинин">
-<meta property="og:description"
-  content="Ой, страница не найдена (404)! Перейдите на главную, чтобы узнать об услугах Владлена Щетинина: контент, SEO, верстка, AI.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://vschetinin.ru/err404/">
-<meta property="og:image" content="https://vschetinin.ru/assets/images/og-err404-image.jpg">
-<meta property="og:site_name" content="Владлен Щетинин">
-<meta property="og:locale" content="ru_RU">
-<!-- Верификация -->
-<!-- Структурированные данные -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Владлен Щетинин",
-  "url": "https://vschetinin.ru/",
-  "description": "Услуги по разработке сайтов, верстке для CMS, SEO-оптимизации и контент-маркетингу для бизнеса в Москве и Московской области.",
-  "publisher": {
-    "@type": "Person",
-    "name": "Владлен Щетинин",
-    "description": "Full-stack разработчик и специалист по цифровому маркетингу с более чем 8 годами опыта, создающий эффективные решения для малого и крупного бизнеса.",
-    "jobTitle": "Специалист по веб-разработке и цифровому маркетингу",
-    "telephone": "+79260522029",
-    "email": "info@vschetinin.ru",
-    "sameAs": ["https://t.me/VladlenGross"],
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Ивантеевка",
-      "addressRegion": "Московская область",
-      "addressCountry": "RU"
-    },
-  },
-  "inLanguage": "ru-RU",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://vschetinin.ru/?s={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
-<!-- ==================================================================================== -->
-
-<!-- End Sector -->
 <?php elseif ($_SERVER["REQUEST_URI"] == '/services/aibots/'): ?>
 <!-- Основные SEO-теги -->
 <title>AI-чат-боты: Автоматизация общения 24/7 | Владлен Щетинин</title>
@@ -723,6 +687,24 @@
       "addressCountry": "RU"
     },
   },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 55.9711,
+    "longitude": 37.9209
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  }],
   "offers": {
     "@type": "Offer",
     "description": "Индивидуальная разработка и интеграция AI-чат-ботов для автоматизации общения, консультаций, заказов и сбора отзывов.",
@@ -789,6 +771,24 @@
       "addressRegion": "Московская область",
       "addressCountry": "RU"
     },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 55.9711,
+      "longitude": 37.9209
+    },
+    "openingHoursSpecification": [{
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "09:00",
+      "closes": "18:00"
+    }],
     "offers": {
       "@type": "Offer",
       "description": "Комплексная оптимизация сайтов, включая мобильную адаптацию, ускорение загрузки, проверку кода, настройку аналитики и техническую поддержку.",
@@ -855,6 +855,24 @@
       "addressCountry": "RU"
     },
   },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 55.9711,
+    "longitude": 37.9209
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  }],
   "offers": {
     "@type": "Offer",
     "description": "Разработка постов для соцсетей, статей, продающих текстов, презентаций и рекламных материалов, адаптированных под ваш бренд.",
@@ -922,6 +940,24 @@
       "addressCountry": "RU"
     },
   },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 55.9711,
+    "longitude": 37.9209
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  }],
   "offers": {
     "@type": "Offer",
     "description": "Адаптивная верстка с валидным кодом, базовой SEO-оптимизацией и подготовкой для интеграции с CMS, включая WordPress и 1С-Битрикс.",

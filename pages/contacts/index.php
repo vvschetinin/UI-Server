@@ -6,15 +6,16 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <link rel="icon" type="image/svg+xml" href="/assets/images/vite.svg" alt="Логотип Владлена Щетинина" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" alt="Иконка для Apple устройств" />
   <!-- Add Title + Meta -->
   <?php if (file_exists($root . "/interface/seo/headtitle.php")): ?>
   <?php require_once $root . '/interface/seo/headtitle.php';?>
   <?php endif;?>
+  <!-- Add Styles and Icons -->
   <link rel="stylesheet" crossorigin href="/assets/styles/main.css" />
+  <link rel="icon" type="image/svg+xml" href="/assets/images/vite.svg" alt="Логотип Владлена Щетинина" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" alt="Иконка для Apple устройств" />
   <!-- Add Metrics -->
 </head>
 
@@ -27,10 +28,11 @@
 
       <section class="hero hero--large flex items-center">
         <figure class="hero-media bg--cover" style="background-image: url(/assets/images/contacts/bg-contacts.webp)">
-            <video class="hero-video" preload="auto" poster="/assets/images/contacts/bg-contacts.webp" loop muted playsinline autoplay controls>
-              <source src="/assets/video/contacts/contact.mp4" type="video/mp4" />
-            </video>
-          </figure>
+          <video class="hero-video" preload="auto" poster="/assets/images/contacts/bg-contacts.webp" loop muted
+            playsinline autoplay controls>
+            <source src="/assets/video/contacts/contact.mp4" type="video/mp4" />
+          </video>
+        </figure>
         <div class="hero-container">
           <div class="hero-content">
             <h3 class="sectorname">Контакты</h3>
