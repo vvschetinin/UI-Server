@@ -202,6 +202,14 @@
                       </p>
                     </article>
                   </div>
+                  <div class="slider-item">
+                    <article class="service-item">
+                      <h3 class="h3-title lh-1 deco-line mb-15">Дополнительные работы и услуги</h3>
+                      <p>Оказываю помощь в анализе данных с применением AI. Консультирую в выборе AI-платформ,
+                        осуществляю техническую поддержку AI-решений. Заинтересован в сотрудничестве с компаниями,
+                        реализующими проекты с использованием AI.</p>
+                    </article>
+                  </div>
                 </div>
                 <div class="slider-button-prev"></div>
                 <div class="slider-button-next"></div>
