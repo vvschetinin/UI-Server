@@ -8,14 +8,15 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <!-- Add Icons -->
+  <link rel="icon" type="image/ico" href="/favicon.ico" alt="Favicon сайта" />
+  <link rel="apple-touch-icon" sizes="160x160" href="/apple-touch-icon.png" alt="Иконка сайта для Apple устройств" />
   <!-- Add Title + Meta -->
   <?php if (file_exists($root . "/interface/seo/headtitle.php")): ?>
   <?php require_once $root . '/interface/seo/headtitle.php';?>
   <?php endif;?>
-  <!-- Add Styles and Icons -->
+  <!-- Add Styles -->
   <link rel="stylesheet" crossorigin href="/assets/styles/main.css" />
-  <link rel="icon" type="image/svg+xml" href="/assets/images/vite.svg" alt="Логотип Владлена Щетинина" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" alt="Иконка для Apple устройств" />
   <!-- Add Metrics -->
 </head>
 

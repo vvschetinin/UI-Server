@@ -13,7 +13,7 @@
   content="Чат-боты, контент-маркетинг и верстка для CMS. Раскройте потенциал бизнеса с AI-решениями!" />
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/">
-<meta property="og:image" content="/assets/images/hero/main-hero.webp">
+<meta property="og:image" content="/assets/images/ogimage/og-main-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -24,7 +24,7 @@
   "@type": "LocalBusiness",
   "name": "Владлен Щетинин - AI-инструменты для бизнеса",
   "description": "AI-инструменты для бизнеса: разработка чат-ботов, контент-маркетинг, верстка для CMS и технический апгрейд сайтов. Персонализированные решения для роста вашего бизнеса в Москве и Московской области.",
-  "image": "https://vschetinin.ru/assets/images/hero/main-hero.webp",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-main-image.webp",
   "url": "https://vschetinin.ru/",
   "telephone": "+79260522029",
   "email": "info@vschetinin.ru",
@@ -102,7 +102,7 @@
   content="AI-чат-боты, контент-маркетинг, верстка CMS и оптимизация сайтов для роста вашего бизнеса!" />
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/services/">
-<meta property="og:image" content="/assets/images/og-services-image.jpg">
+<meta property="og:image" content="/assets/images/ogimage/og-services-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -113,7 +113,7 @@
   "@type": "LocalBusiness",
   "name": "Владлен Щетинин - Услуги AI и оптимизации сайтов",
   "description": "Профессиональные услуги для бизнеса: контент-маркетинг, разработка AI-чат-ботов, оптимизация сайтов и верстка для CMS в Москве и Московской области. Автоматизация процессов и привлечение клиентов.",
-  "image": "https://vschetinin.ru/assets/images/og-services-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-services-image.webp",
   "url": "https://vschetinin.ru/services/",
   "telephone": "+79260522029",
   "email": "info@vschetinin.ru",
@@ -203,7 +203,7 @@
   content="Посмотрите мои кейсы: сайты и AI-решения, которые увеличили трафик и продажи. Начните свой проект!" />
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/cases/">
-<meta property="og:image" content="/assets/images/og-cases-image.jpg">
+<meta property="og:image" content="/assets/images/ogimage/og-cases-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -214,7 +214,7 @@
   "@type": "LocalBusiness",
   "name": "Владлен Щетинин - Кейсы AI и сайтов",
   "description": "Кейсы и портфолио: сайты и AI-решения, увеличившие трафик и продажи для бизнеса в Москве и Московской области. Примеры успешных проектов и автоматизации.",
-  "image": "https://vschetinin.ru/assets/images/og-cases-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-cases-image.webp",
   "url": "https://vschetinin.ru/cases/",
   "telephone": "+79260522029",
   "email": "info@vschetinin.ru",
@@ -323,7 +323,7 @@
   content="Full-stack разработчик с 8+ лет опыта. Создаю AI-решения и сайты для роста малого бизнеса. Давайте сотрудничать!" />
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/about/">
-<meta property="og:image" content="/assets/images/og-about-image.jpg">
+<meta property="og:image" content="/assets/images/ogimage/og-about-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -334,7 +334,7 @@
   "@type": "LocalBusiness",
   "name": "Владлен Щетинин - AI и веб-разработка",
   "description": "Владлен Щетинин — full-stack разработчик с более чем 8 годами опыта в веб-разработке и AI-решениях для малого бизнеса в Москве и Московской области. Создание сайтов, чат-ботов и автоматизация процессов.",
-  "image": "https://vschetinin.ru/assets/images/og-about-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-about-image.webp",
   "url": "https://vschetinin.ru/about/",
   "telephone": "+79260522029",
   "email": "info@vschetinin.ru",
@@ -405,7 +405,7 @@
 <meta name="description"
   content="Блог об AI, маркетинге и автоматизации бизнеса. Полезные статьи и советы для роста вашего дела!" />
 <meta name="keywords" content="AI, маркетинг, автоматизация бизнеса, блог, Владлен Щетинин" />
-<meta name="robots" content="index, follow" />
+<meta name="robots" content="noindex">
 <meta name="author" content="Владлен Щетинин">
 <link rel="canonical" href="https://vschetinin.ru/blog/">
 <!-- Open Graph теги -->
@@ -414,7 +414,7 @@
   content="Читайте статьи об AI, маркетинге и автоматизации бизнеса. Советы для предпринимателей скоро здесь!" />
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/blog/">
-<meta property="og:image" content="/assets/images/og-blog-image.jpg">
+<meta property="og:image" content="/assets/images/ogimage/og-blog-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -426,7 +426,7 @@
   "name": "Блог Владлена Щетинина - AI, маркетинг, бизнес",
   "description": "Блог об AI, маркетинге и автоматизации бизнеса для предпринимателей в Москве и Московской области. Полезные статьи, советы и кейсы для роста вашего дела.",
   "url": "https://vschetinin.ru/blog/",
-  "image": "https://vschetinin.ru/assets/images/og-blog-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-blog-image.webp",
   "publisher": {
     "@type": "Person",
     "name": "Владлен Щетинин",
@@ -475,7 +475,7 @@
   content="Часто задаваемые вопросы об AI-инструментах, чат-ботах и автоматизации. Узнайте, как усилить ваш бизнес с Владленом Щетининым!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/faq/">
-<meta property="og:image" content="/assets/images/og-faq-image.jpg">
+<meta property="og:image" content="/assets/images/ogimage/og-faq-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -487,7 +487,7 @@
   "name": "FAQ: AI-инструменты и автоматизация бизнеса | Владлен Щетинин",
   "description": "Часто задаваемые вопросы об AI-инструментах, чат-ботах и автоматизации бизнеса для предпринимателей в Москве и Московской области. Узнайте, как Владлен Щетинин поможет вашему бизнесу расти.",
   "url": "https://vschetinin.ru/faq/",
-  "image": "https://vschetinin.ru/assets/images/og-faq-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-faq-image.webp",
   "publisher": {
     "@type": "Person",
     "name": "Владлен Щетинин",
@@ -577,7 +577,7 @@
   content="Свяжитесь с Владленом Щетининым для AI-решений и автоматизации бизнеса. Напишите или позвоните, чтобы обсудить ваш проект!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/contacts/">
-<meta property="og:image" content="https://vschetinin.ru/assets/images/og-contacts-image.jpg">
+<meta property="og:image" content="https://vschetinin.ru/assets/images/ogimage/og-contacts-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -589,7 +589,7 @@
   "name": "Владлен Щетинин",
   "description": "Full-stack разработчик и AI-специалист с более чем 8 годами опыта, создающий решения для малого бизнеса в Москве и Московской области.",
   "url": "https://vschetinin.ru/contacts/",
-  "image": "https://vschetinin.ru/assets/images/og-contacts-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-contacts-image.webp",
   "jobTitle": "AI-специалист и разработчик",
   "telephone": "+79260522029",
   "email": "info@vschetinin.ru",
@@ -654,7 +654,7 @@
   content="Автоматизируйте общение с клиентами 24/7 с AI-чат-ботами! Владлен Щетинин настроит бота для консультаций, заказов и роста продаж.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/services/aibots/">
-<meta property="og:image" content="https://vschetinin.ru/assets/images/og-aibots-image.jpg">
+<meta property="og:image" content="https://vschetinin.ru/assets/images/ogimage/og-aibots-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -667,7 +667,7 @@
   "name": "AI-чат-боты для бизнеса: автоматизация общения 24/7",
   "description": "Создание AI-чат-ботов для автоматизации общения с клиентами 24/7, обработки заказов, консультаций и повышения конверсий. Индивидуальная настройка под ваш бренд в Москве и Московской области.",
   "url": "https://vschetinin.ru/services/aibots/",
-  "image": "https://vschetinin.ru/assets/images/og-aibots-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-aibots-image.webp",
   "areaServed": {
     "@type": "Place",
     "name": ["Москва", "Московская область"]
@@ -739,7 +739,7 @@
   content="Ускорьте сайт с Владленом Щетининым: мобильная адаптация, PageSpeed 90+, аналитика. Повысьте трафик и конверсии уже сегодня!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/services/optimization/">
-<meta property="og:image" content="https://vschetinin.ru/assets/images/og-optimization-image.jpg">
+<meta property="og:image" content="https://vschetinin.ru/assets/images/ogimage/og-optimization-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -752,7 +752,7 @@
   "name": "Оптимизация сайтов: Скорость, надёжность и конверсии",
   "description": "Техническая оптимизация сайтов для ускорения загрузки до 2 секунд, мобильной адаптации, настройки аналитики и повышения конверсий. Услуги для бизнеса в Москве и Московской области.",
   "url": "https://vschetinin.ru/services/optimization/",
-  "image": "https://vschetinin.ru/assets/images/og-optimization-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-optimization-image.webp",
   "areaServed": {
     "@type": "Place",
     "name": ["Москва", "Московская область"]
@@ -822,7 +822,7 @@
   content="Уникальные тексты, посты, презентации и реклама от Владлена Щетинина. Увеличьте вовлечённость и продажи вашего бренда!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/services/content/">
-<meta property="og:image" content="https://vschetinin.ru/assets/images/og-content-image.jpg">
+<meta property="og:image" content="https://vschetinin.ru/assets/images/ogimage/og-content-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -835,7 +835,7 @@
   "name": "Контент-маркетинг: Уникальные тексты и презентации",
   "description": "Создание уникальных текстов, постов для соцсетей, статей, продающих материалов и презентаций для усиления бренда и роста продаж. Услуги для бизнеса в Москве и Московской области.",
   "url": "https://vschetinin.ru/services/content/",
-  "image": "https://vschetinin.ru/assets/images/og-content-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-content-image.webp",
   "areaServed": {
     "@type": "Place",
     "name": ["Москва", "Московская область"]
@@ -907,7 +907,7 @@
   content="Адаптивная верстка для CMS с SEO-оптимизацией и интеграцией в WordPress, 1С-Битрикс. Владлен Щетинин создаст функциональный сайт!">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vschetinin.ru/services/castom/">
-<meta property="og:image" content="https://vschetinin.ru/assets/images/og-castom-image.jpg">
+<meta property="og:image" content="https://vschetinin.ru/assets/images/ogimage/og-castom-image.webp">
 <meta property="og:site_name" content="Владлен Щетинин">
 <meta property="og:locale" content="ru_RU">
 <!-- Верификация -->
@@ -920,7 +920,7 @@
   "name": "Адаптивная верстка для CMS с SEO-оптимизацией",
   "description": "Создание адаптивной, валидной верстки с SEO-оптимизацией для интеграции с WordPress, 1С-Битрикс и другими CMS. Услуги для бизнеса в Москве и Московской области.",
   "url": "https://vschetinin.ru/services/castom/",
-  "image": "https://vschetinin.ru/assets/images/og-castom-image.jpg",
+  "image": "https://vschetinin.ru/assets/images/ogimage/og-castom-image.webp",
   "areaServed": {
     "@type": "Place",
     "name": ["Москва", "Московская область"]
