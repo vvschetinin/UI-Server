@@ -25,7 +25,7 @@
     content="Ой, страница не найдена (404)! Перейдите на главную, чтобы узнать об услугах Владлена Щетинина: контент, оптимизация сайтов, верстка, AI.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://vschetinin.ru/err404/">
-  <meta property="og:image" content="https://vschetinin.ru/assets/images/og-err404-image.jpg">
+  <meta property="og:image" content="https://vschetinin.ru/assets/images/ogimage/og-err404-image.jpg">
   <meta property="og:site_name" content="Владлен Щетинин">
   <meta property="og:locale" content="ru_RU">
   <!-- Add Структурированных данных -->
@@ -35,7 +35,7 @@
     "@type": "LocalBusiness",
     "name": "Владлен Щетинин - AI-решения и автоматизация бизнеса",
     "description": "Профессиональные AI-инструменты, чат-боты и автоматизация бизнес-процессов в Москве и Московской области. Консультации и разработка для вашего бизнеса.",
-    "image": "https://vschetinin.ru/assets/images/og-err404-image.jpg",
+    "image": "https://vschetinin.ru/assets/images/ogimage/og-err404-image.jpg",
     "url": "https://vschetinin.ru/",
     "telephone": "+79260522029",
     "email": "info@vschetinin.ru",
