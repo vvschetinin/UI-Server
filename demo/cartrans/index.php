@@ -7,6 +7,7 @@
     content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=1.5, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Грузоперевозки для юридических лиц по Москве и Московской области</title>
+  <meta name="robots" content="noindex">
   <link href="/demo/cartrans/css/style.d1a4eabd70f36f82d946.css" rel="stylesheet">
 </head>
 

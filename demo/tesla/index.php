@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="shortcut icon" href="/demo/tesla/assets/images/general/favicon.png" type="image/ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
   <link rel="stylesheet" href="/demo/tesla/assets/style.css">
   <title>Tesla Motors</title>
 </head>

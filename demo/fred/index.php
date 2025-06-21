@@ -11,6 +11,7 @@
   <meta name="viewport"
     content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.5, user-scalable=yes" />
   <link rel="shortcut icon" href="/demo/fred/images/favicon.ico" type="image/ico">
+  <meta name="robots" content="noindex">
   <style>
   body {
     overflow-x: hidden;

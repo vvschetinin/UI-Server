@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <!-- Add Title + Meta -->
-  <title>Страница не найдена (404) | Владлен Щетинин</title>
+  <title>Страница не найдена (Error 404) | Владлен Щетинин</title>
   <meta name="description"
     content="Страница не найдена (404). Вернитесь на главную, чтобы узнать об услугах Владлена Щетинина: контент, верстка, оптимизация сайтов и AI!">
   <meta name="keywords" content="404, страница не найдена, Владлен Щетинин, услуги для бизнеса">
@@ -17,7 +17,7 @@
   <meta name="author" content="Владлен Щетинин">
   <link rel="canonical" href="https://vschetinin.ru/err404/">
   <!-- Open Graph -->
-  <meta property="og:title" content="404: Страница не найдена | Владлен Щетинин">
+  <meta property="og:title" content="Error 404: Страница не найдена | Владлен Щетинин">
   <meta property="og:description"
     content="Ой, страница не найдена (404)! Перейдите на главную, чтобы узнать об услугах Владлена Щетинина: контент, оптимизация сайтов, верстка, AI.">
   <meta property="og:type" content="website">
