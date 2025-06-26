@@ -165,7 +165,7 @@
                 <button class="start-project-btn display-inline-block js-startproject">Получить консультацию</button>
               </div>
               <div class="revers-list flex justify-center justify-start--sm mt-3">
-                <a href="/pages/services/" class="hover-rotate">Назад к списку услуг</a>
+                <a href="/services/" class="hover-rotate">Назад к списку услуг</a>
               </div>
             </div>
           </div>
