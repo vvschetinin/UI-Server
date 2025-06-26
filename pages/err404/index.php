@@ -16,7 +16,7 @@
   <meta name="description"
     content="Страница не найдена (404). Вернитесь на главную, чтобы узнать об услугах Владлена Щетинина: контент, верстка, оптимизация сайтов и AI!">
   <meta name="keywords" content="404, страница не найдена, Владлен Щетинин, услуги для бизнеса">
-  <meta name="robots" content="noindex, follow">
+  <meta name="robots" content="noindex">
   <meta name="author" content="Владлен Щетинин">
   <link rel="canonical" href="https://vschetinin.ru/err404/">
   <!-- Open Graph -->
@@ -180,7 +180,7 @@
       <section class="section-type bg-dark">
         <div class="container container--small">
           <div class="row element-animation-up">
-            <article class="col-100 content-wrap">
+            <div class="col-100 content-wrap">
               <h2>Запрошенная вами страница не существует</h2>
               <p class="mt-1">
                 Это могло произойти из-за ввода неправильного URL-адреса, загрузки старой страницы из поисковой системы
@@ -190,7 +190,7 @@
               <div class="button-wrap text-left mt-2 mt-3--lg">
                 <a href="/" class="view-btn">На главную страницу</a>
               </div>
-            </article>
+            </div>
           </div>
         </div>
       </section>
