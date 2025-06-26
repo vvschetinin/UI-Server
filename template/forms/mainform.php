@@ -52,8 +52,6 @@
                 value="Сообщение с модальной формы обратной связи">
               <input type="text" class="helpmess" name="<?= htmlspecialchars($honeypots['hp_helpmess']) ?>" value=""
                 aria-hidden="true" autocomplete="off">
-              <input type="number" class="form-target_page-number"
-                name="<?= htmlspecialchars($honeypots['hp_number']) ?>" value="" aria-hidden="true" autocomplete="off">
               <input type="email" class="form-target_page-email" name="<?= htmlspecialchars($honeypots['hp_email']) ?>"
                 value="" aria-hidden="true" autocomplete="off">
               <input type="tel" class="form-target_page-phone" name="<?= htmlspecialchars($honeypots['hp_tel']) ?>"

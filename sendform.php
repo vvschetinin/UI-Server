@@ -55,6 +55,7 @@ try {
     $mail->Body = '
         <h3>Получено новое сообщение:</h3>
         <p><strong>Имя:</strong> ' . htmlspecialchars($data['name']) . '</p>
+        <p><strong>Телефон:</strong> ' . htmlspecialchars($data['phone']) . '</p>
         <p><strong>Email:</strong> ' . htmlspecialchars($data['email']) . '</p>
         <p><strong>Сообщение:</strong><br>' . nl2br(htmlspecialchars($data['message'])) . '</p>
     ';
