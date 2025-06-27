@@ -265,7 +265,7 @@
             </div>
           </div>
           <!-- Призыв к действию -->
-          <div class="row mt-3">
+          <div class="row mt-2">
             <div class="col-100">
               <article>
                 <h2 class="p-article color-white font-middle mb-0">Готовы к росту вашего бизнеса?</h2>
@@ -274,10 +274,7 @@
                   24/7, обновление дизайна и оптимизацию сайтов.
                   Адаптирую решения под ваши задачи, чтобы усилить бренд и повысить прибыль. Свяжитесь для консультации,
                   чтобы начать уже сегодня! Узнайте больше в моих
-                  <a class="hover-link" href="/services/">услугах</a>
-                  и
-                  <a class="hover-link" href="/blog/">статьях в блоге</a>
-                  .
+                  <a class="hover-link" href="/services/">услугах</a>.
                 </p>
               </article>
               <!-- Блок кнопок -->
