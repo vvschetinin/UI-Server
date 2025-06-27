@@ -12,9 +12,6 @@ $array_menu[$i++]['name'] = 'Кейсы и результаты';
 $array_menu[$i]['url'] = '/about/';
 $array_menu[$i++]['name'] = 'Обо мне';
 
-$array_menu[$i]['url'] = '/blog/';
-$array_menu[$i++]['name'] = 'Блог';
-
 $array_menu[$i]['url'] = '/faq/';
 $array_menu[$i++]['name'] = 'FAQ';
 

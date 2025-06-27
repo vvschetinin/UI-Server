@@ -120,7 +120,7 @@
 
       </section>
 
-      <section class="section-type s-services bg-dark">
+      <section class="s-services section-type bg-dark">
         <div class="container--middle">
           <div class="row content-block element-animation-up">
             <div class="col-100">
@@ -138,7 +138,7 @@
             </article>
           </div>
 
-          <div class="row content-block justify-center">
+          <div class="row justify-center">
             <div class="col-100 col-md-50 col-lg-40 mb-2">
               <article class="services-item">
                 <a href="/services/content/">
@@ -161,7 +161,6 @@
                 </div>
               </article>
             </div>
-
             <div class="col-100 col-md-50 col-lg-40 mb-2">
               <article class="services-item">
                 <a href="/services/aibots/">
@@ -184,7 +183,6 @@
                 </div>
               </article>
             </div>
-
             <div class="col-100 col-md-50 col-lg-40 mb-2 mb-0--md">
               <article class="services-item">
                 <a href="/services/optimization/">
@@ -206,7 +204,6 @@
                 </div>
               </article>
             </div>
-
             <div class="col-100 col-md-50 col-lg-40 mb-0">
               <article class="services-item">
                 <a href="/services/castom/">
@@ -232,7 +229,7 @@
           </div>
 
           <div class="row element-animation-up">
-            <article class="col-100">
+            <article class="col-100 addservice">
               <h3 class="h3-title mb-1">Дополнительные работы и услуги:</h3>
               <ul class="services-list">
                 <li>Помощь в анализе данных с применением AI</li>
@@ -243,14 +240,15 @@
               <p>Хотите, чтобы ваш сайт работал безупречно и привлекал больше клиентов? Обеспечу его быструю загрузку,
                 идеальную адаптацию под мобильные устройства и
                 соответствие современным стандартам. Продуманные решения сделают сайт удобным для пользователей и усилят
-                позиции вашего бизнеса в онлайне! Узнайте больше в моих <a class="hover-link" href="/cases/">кейсах</a>
-                и <a class="hover-link" href="/blog/">статьях в блоге</a>.
+                позиции вашего бизнеса в онлайне! Узнайте больше в моих <a class="hover-link" href="/cases/">кейсах</a>.
               </p>
-              <div class="button-wrap text-center mt-2 mt-3--lg">
-                <a href="/cases/" class="view-btn">Смотреть работы</a>
+              <!-- Блок кнопок -->
+              <div class="button-wrap flex justify-center mt-2 mt-3--lg">
+                <button class="start-project-btn display-inline-block js-startproject">Получить консультацию</button>
               </div>
             </article>
           </div>
+
         </div>
       </section>
 
